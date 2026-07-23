@@ -100,9 +100,8 @@ developer_info = """
 ### About the Developer
 **Created by:** Aleesha
 
-* **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-* **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-* **Instagram:** [Follow me](YOUR_INSTAGRAM_URL_HERE)
+* **LinkedIn:** [Connect with me]( https://www.linkedin.com/in/aleesha-8117a1320)
+* **GitHub:** [Check out my projects](https://github.com/aleesha-16)
 
 ---
 ### 🛠️ Tools & Technologies Used
